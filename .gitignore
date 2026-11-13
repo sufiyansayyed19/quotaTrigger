@@ -1,0 +1,22 @@
+# Project secrets & local config
+.session.env
+*.env
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Logs & temporary files
+*.log
+*.tmp
+
+# OS & editor files
+.DS_Store
+Thumbs.db
+.vscode/
