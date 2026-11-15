@@ -1,6 +1,7 @@
 # Project secrets & local config
 .session.env
 *.env
+config.ini
 
 # Python bytecode & cache
 __pycache__/
